@@ -26,6 +26,8 @@ JS & JQuery -
   On-Click for clear button
   On-Click movie suggestions event to return further suggestions
   
+  link to site:https://rlizm100.github.io/Movie-Finder/index.html
+  
   
 ![Userflowdiagram.png](https://github.com/CrystaJeffcoat/MovieFinder/blob/master/assets/Userflowdiagram.png)
 
